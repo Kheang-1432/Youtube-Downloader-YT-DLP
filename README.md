@@ -2,7 +2,7 @@
 
 
 
-1.To download high quality from YouTube, you need to download "ffmpeg-7.1.1-essentials\_build" from https://ffmpeg.org/download.html
+1.To download videos on YouTube, you need to download "ffmpeg-7.1.1-essentials\_build" from https://ffmpeg.org/download.html
 
 2.Extract it to "C:\\ffmpeg"
 
